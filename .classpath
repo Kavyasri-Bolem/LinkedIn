@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/Downloads/jsoup-1.15.3.jar" sourcepath="C:/Users/BOLEM KAVYASRI/OneDrive/Documents/jsp files/jsoup-1.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/Downloads/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/Downloads/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/Downloads/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/OneDrive/Documents/jsp files/compiler-19.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/OneDrive/Documents/jsp files/javadoc-19.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/OneDrive/Documents/jsp files/jsoup-1.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOLEM KAVYASRI/OneDrive/Documents/jsp files/jsoup-1.7.2-javadoc.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
